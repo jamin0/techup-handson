@@ -1,0 +1,27 @@
+h1 {
+    color: #663300;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border:#663300 3px solid;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-style: italic;
+    color: #7c24da;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.title {
+    background-color: #fce91bd3;
+}
+
+#selector {
+    font-family: Helvetica, sans-serif;
+}
